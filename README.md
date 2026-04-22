@@ -1,6 +1,6 @@
 # K.K's Portfolio (Data Engineering & DX)
 
-山形県を拠点に、製造業の現場知見とデータ技術（Power BI / Python / SQL）を掛け合わせ、業務改善を推進するエンジニアです。
+山形県を拠点に、製造業の現場知見とデータ技術（Power Platform / Python / SQL）を掛け合わせ、業務改善を推進するエンジニアです。
 
 ---
 
