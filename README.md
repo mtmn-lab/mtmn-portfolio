@@ -52,6 +52,7 @@
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
-- **GitHub:** [K.Kのリポジトリ](https://github.com/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D)
+お仕事のご依頼やお問い合わせは、[GitHubプロフィール]をご確認いただくか、リポジトリのIssueよりご連絡ください。
+- **GitHub:** [mtmn-lab](https://github.com/mtmn-lab)
