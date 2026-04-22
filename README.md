@@ -1,25 +1,59 @@
-# 🧪 mtmn-lab
+# K.K's Portfolio (Data Engineering & DX)
 
-BIエンジニアを目指して、データの可視化と技術の習得に励むK.Kの研究所です。
+山形県を拠点に、製造業の現場知見とデータ技術（Power BI / Python / SQL）を掛け合わせ、業務改善を推進するエンジニアです。
 
-## 👤 About Me
+---
 
-- **目標**: データの力で意思決定を支えるBIエンジニア
-- **注力分野**: Power BI / SQL / データ分析
-- **最近の活動**: 開発環境の構築とポートフォリオ作成に挑戦中！
+## 📄 職務経歴書・ポートフォリオ
 
-## 🛠 Skills & Tools
+最新の詳細資料はこちらからご確認いただけます。
 
-- **BI Tools**: Power BI
-- **Database**: SQL (Learning)
-- **Dev Tools**: Cursor / Git / GitHub
+- [職務経歴書 (PDF)](00_Documents\スキルシート.pdf)
+- [ポートフォリオ (PDF)](00_Documents\ポートフォリオ.pdf)
 
-## 📁 Repository Contents
+---
 
-- [**Skill-Sheets**](notion://www.notion.so/): これまでの経験とスキルをまとめた職務経歴書（準備中）
-- [**DAX-Snippets**](notion://www.notion.so/): 実務や学習で活用したDAX関数のメモ（準備中）
-- [**Analysis-Projects**](notion://www.notion.so/): 公開可能なデータセットを用いた分析レポート（Coming Soon）
+## 🚀 テクニカルスキル
 
-## 📬 Contact
+### Data Analysis & Visualization
 
-- GitHubのIssueまたはプロフィールからお気軽にどうぞ！
+- **Power BI:** スタースキーマによるデータモデリング、DAXを用いた高度な指標算出、条件付き書式を活用した異常検知アラートの実装、Power BI Serviceによる共有基盤構築。
+- **SQL (PostgreSQL):** データ抽出、テーブル結合、前処理（ビュー作成など）によるデータ基盤整備。
+
+### Programming & Automation
+
+- **Python:** ライブラリを用いたデータ収集（スクレイピング等）、ETLプロセスの自動化。
+- **Power Platform:** Power Appsによる入力フォーム作成、Power Automate (PAD含む) によるワークフロー自動化。
+
+### Domain Knowledge
+
+- 製造現場におけるKPI設計（稼働率、良品率等）、SAPデータ活用、在庫管理・品質管理プロセスの最適化。
+
+---
+
+**🌟 プロジェクト紹介（Project Highlights）**
+
+ポートフォリオの内容を、エンジニア的な「技術的解決」にフォーカスして再構成しました。
+
+**1. 製造現場向けリアルタイムKPIダッシュボードの構築**
+
+- **概要:** 現場のCSVログを統合し、製造部約60名および管理職が同一指標で判断できる意思決定支援基盤を構築。
+- **技術スタック:** Power BI, SQL, SharePoint, Power Automate, OfficeScript
+- **技術的工夫:**
+- **異常検知の視覚化:** 設備ダウン発生時に背景色を自動変更するギミックを実装し、現場の初動を迅速化。
+- **パフォーマンス最適化:** データプレパレーション（前処理）を上位層に集約し、レポートの表示速度を大幅に改善。
+- **共通データ基盤:** Dataflowを活用し、再利用性の高いデータセットを構築。
+
+**2. データ収集・加工プロセスの自動化（マジカル商店プロジェクト）**
+
+- **概要:** 散在する外部データをPythonを用いて自動取得し、分析用データベースへ格納する一連のパイプラインを構築。
+- **技術スタック:** Python, PostgreSQL, DBeaver, Cursor
+- **技術的工夫:**
+- **ETLの自動化:** 手動でのデータ転記を排除し、ヒューマンエラーの削減とデータの鮮度向上を実現。
+- **ディレクトリ設計:** メンテナンス性を考慮したコード管理と環境構築を実践。
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [K.Kのリポジトリ](https://github.com/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D)
