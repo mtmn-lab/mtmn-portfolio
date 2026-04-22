@@ -8,8 +8,8 @@
 
 最新の詳細資料はこちらからご確認いただけます。
 
-- [職務経歴書 (PDF)](00_Documents\スキルシート.pdf)
-- [ポートフォリオ (PDF)](00_Documents\ポートフォリオ.pdf)
+- [職務経歴書 (PDF)](https://github.com/mtmn-lab/mtmn-portfolio/raw/main/00_Documents/resume.pdf)
+- [ポートフォリオ (PDF)](https://github.com/mtmn-lab/mtmn-portfolio/raw/main/00_Documents/portfolio.pdf)
 
 ---
 
@@ -32,8 +32,6 @@
 ---
 
 **🌟 プロジェクト紹介（Project Highlights）**
-
-ポートフォリオの内容を、エンジニア的な「技術的解決」にフォーカスして再構成しました。
 
 **1. 製造現場向けリアルタイムKPIダッシュボードの構築**
 
