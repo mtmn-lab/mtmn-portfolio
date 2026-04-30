@@ -1,0 +1,4 @@
+staff_id,staff_name,store_id,role,updated_at,updated_by
+ST01,Lina,Shop_A,Cashier,2026-04-30,Metamon
+ST02,Poco,Shop_A,Cashier,2026-04-30,Metamon
+ST03,Sarah,Shop_B,Cashier,2026-04-30,Metamon
