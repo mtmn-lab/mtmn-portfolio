@@ -1,22 +1,38 @@
 from pathlib import Path
 import pandas as pd
+import shutil
+from datetime import datetime
 
-# inputフォルダ
-input_dir = Path("../clean_logs/01_input/")
+# ==============================
+# フォルダ設定
+# ==============================
 
-# CSV一覧取得
-csv_files = list(input_dir.glob("*.csv"))
+BASE_DIR = Path(__file__).resolve().parents[2]
 
-#最新CSV一覧取得
-latest_files = max(csv_files, key=lambda f: f.stat().st_mtime)
+input_dir = BASE_DIR / "data/01_input"
+output_dir = BASE_DIR / "data/02_output"
 
-print(f"読み込みファイル:{latest_files.name}")
+print(input_dir)
 
-#CSV読み込み
-df = pd.read_csv(latest_files)
 
-# 最初の5行を確認
-print(df.head())
+
+
+# # inputフォルダ
+# input_dir = Path("../clean_logs/01_input/")
+
+# # CSV一覧取得
+# csv_files = list(input_dir.glob("*.csv"))
+
+# #最新CSV一覧取得
+# latest_files = max(csv_files, key=lambda f: f.stat().st_mtime)
+
+# print(f"読み込みファイル:{latest_files.name}")
+
+# #CSV読み込み
+# df = pd.read_csv(latest_files)
+
+# # 最初の5行を確認
+# print(df.head())
 
 
 
