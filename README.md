@@ -139,7 +139,9 @@ Power BI / SQL / Power Platform / Python を活用した
 
 ## 📄 Documents
 
+
 - [職務経歴書 (PDF)](https://github.com/mtmn-lab/mtmn-portfolio/raw/main/00_Documents/resume.pdf)
+- [スキルシート (PDF)](https://github.com/mtmn-lab/mtmn-portfolio/raw/main/00_Documents/skill_sheet.pdf)
 - [ポートフォリオ (PDF)](https://github.com/mtmn-lab/mtmn-portfolio/raw/main/00_Documents/portfolio.pdf)
 
 ---
